@@ -2,6 +2,7 @@ package testBase;
 
 import com.browserstack.local.Local;
 import driver.DriverInitializer;
+import listener.ActivityCapture;
 import org.openqa.selenium.WebDriver;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
@@ -35,6 +36,7 @@ public class TestBase {
         productSearchPage = new ProductSearchPage();
         productDetailPage = new ProductDetailPage();
         guestUserLoginSignUpPage = new GuestUserLoginSignUpPage();
+        
 
     }
 

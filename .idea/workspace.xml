@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245113a8-4012-43bb-acaa-249809a045d3" name="Default Changelist" comment="" />
+    <list default="true" id="245113a8-4012-43bb-acaa-249809a045d3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/classes/testCases.SearchProductTestCases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/SanityTests/packages/testCases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/Gradle suite/Gradle test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/Gradle suite/Gradle test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/junitreports/TEST-testCases.SearchProductTestCases.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/Gradle test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/Gradle suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/result/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/SanityTests/TEST-testCases.SearchProductTestCases.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/SanityTests/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/SanityTests/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/SanityTests/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/SanityTests/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/SanityTests/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/SanityTests/jar_extract_4735426541548343569_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/SanityTests/jar_extract_6506384147147603476_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/TestBase.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +108,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SC0OfQQrG36uEXcTgRwFEoX9Ba" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
@@ -227,5 +283,18 @@
       <updated>1571052239739</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

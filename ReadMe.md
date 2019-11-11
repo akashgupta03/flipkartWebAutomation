@@ -1,5 +1,9 @@
 This repo contains tests for flipkart web application
 
+-This repository contains a hybrid framework designed for the testing of web applications.
+
+-This framework makes use of Selenium webdriver and is programmed in Java.
+
 
 #
 Machine Set up details to execute tests on your local machine:
